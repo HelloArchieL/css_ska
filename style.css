@@ -29,7 +29,6 @@
     height: 300px;
     left: 360px;
     top: 199px;
-    background:url(../css_ska/img/photo.png)
 }
 
 .personal{
@@ -399,7 +398,6 @@
     height: 100px;
     left: 408px;
     top: 1727px;
-    background:url(../css_ska/img/burger.png)
 }
 
 .work-p2{
@@ -594,7 +592,6 @@
     height: 64px;
     left: 840px;
     top: 2497px;
-    background:url(../css_ska/img/linkedin.png)
 }
 
 .youtube{
@@ -603,7 +600,6 @@
     height: 64px;
     left: 928px;
     top: 2497px;
-    background:url(../css_ska/img/youtube.png)
 }
 
 .line{
@@ -612,5 +608,4 @@
     height: 64px;
     left: 1016px;
     top: 2497px;
-    background:url(../css_ska/img/line.png)
 }
